@@ -1,5 +1,5 @@
 '''
-Title 
+Title
 Group:
 Ivanov Ivan
 Petrov Petr
@@ -19,6 +19,7 @@ def triangle(x,y,a,b,angle,color):
     pass
 
 def draw_dog():
+    '''Drawking big dog. Rrrrr!'''
     pass
 
 def draw_cat():
